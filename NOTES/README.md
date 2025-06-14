@@ -1,6 +1,3 @@
-# Spring Annotations Explained with Example
-
-Here are **clear and concise notes** for explaining **Spring annotations**: `@Autowired`, `@Component`, `@Primary`, and `@Qualifier` — using an example where the interface is `Computer` and the classes `Desktop` and `Laptop` implement it.
 
 ---
 
